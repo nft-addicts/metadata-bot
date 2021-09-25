@@ -1,0 +1,8 @@
+{
+    "project_name": "kinesis",
+    "total_supply": "3640",
+    "first_token": "0",
+    "base_url": "https://kinesis.art/api/metadata/",
+    "export_filename": "kinesis_metadata.json",
+    "sorting_key": "tokenID"
+}

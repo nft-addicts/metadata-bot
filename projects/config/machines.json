@@ -1,0 +1,8 @@
+{
+    "project_name": "machines",
+    "total_supply": "9999",
+    "first_token": "1",
+    "base_url": "https://www.citadelofthemachines.com/token/",
+    "export_filename": "machines_metadata.json",
+    "sorting_key": "tokenID"
+}
